@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget
-    id="com.evothings.accelerometer-demo"
+    id="com.evothings.bluno-demo"
     version="0.0.1"   
     xmlns="http://www.w3.org/ns/widgets"
     xmlns:gap="http://phonegap.com/ns/1.0">
 
-    <name>Cordova Accelerometer</name>
-    <description> Testing the on-board accelerometer </description>
+    <name>Cordova bluetoothle</name>
+    <description> Communication bluetooth bidirectionnelle </description>
     <author email="websmurf@evothings.com" href="http://evothings.com"> Webb S Murph </author>
     <content src="index.html" />
 
