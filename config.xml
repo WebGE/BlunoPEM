@@ -9,9 +9,6 @@
     <description> Communication bluetooth bidirectionnelle </description>
     <author email="websmurf@evothings.com" href="http://evothings.com"> Webb S Murph </author>
     <content src="index.html" />
-
-    <plugin name="com.jkhax0r.bluetoothle" source="pgb" />
-    <plugin name="org.bcsphere.bluetooth"  source="pgb" />
     
     <access origin="*" /> <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
