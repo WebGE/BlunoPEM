@@ -10,10 +10,6 @@
     <author email="websmurf@evothings.com" href="http://evothings.com"> Webb S Murph </author>
     <content src="index.html" />
 
-    <gap:plugin name="cordova-plugin-bluetoothle" source="npm" />
-    <gap:plugin name="Bluetooth Serial Plugin for PhoneGap" source="npm" />
-    <gap:plugin name="cordova-plugin-bluetooth-status" source="npm" />
-
     <access origin="*" /> <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
 
