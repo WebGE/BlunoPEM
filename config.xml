@@ -12,6 +12,7 @@
     
     <plugin name="com.evothings.ble" spec="1.0.0" source="pgb" />
     <plugin name="com.megster.cordova.ble" spec="0.1.0" source="pgb" />
+    <plugin name="cordova-plugin-dialogs" source="npm">
     
     <access origin="*" /> <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
